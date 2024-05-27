@@ -1,13 +1,13 @@
 <br />
 <p align="center">
-  <a href="https://github.com/philimon-reset/Git-Stats">
+  <a href="https://github.com/James-chuks/Git-Stats">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Git Stats</h3>
   <p align="center">
     A convienient tool for developers to showcase github projects
     <br />
-    <a href="https://github.com/philimon-reset/Git-Stats"><strong>Explore the docs»</strong></a>
+    <a href="https://github.com/James-chuks/Git-Stats"><strong>Explore the docs»</strong></a>
   </p>
 </p>
 
@@ -118,13 +118,16 @@ Add pull requests to improve Git stats where it can be improved.
 <!-- CONTACT -->
 ## Contact
 
-Hizkyas Tekele:
-* Github: [https://github.com/Doro-000](https://github.com/Doro-000)
-* Linkedin: [(http://www.linkedin.com/in/Hizkyas-T-Aberra](http://www.linkedin.com/in/Hizkyas-T-Aberra)
+James James-Ude:
+* Github: [https://github.com/James-chuks](https://github.com/James-chuks)
+* Linkedin: [(https://www.linkedin.com/in/james-james-ude-04a12bbb/](https://www.linkedin.com/in/james-james-ude-04a12bbb/)]
 <br />
 
-Philimon Derib:
-* Github: [https://github.com/philimon-reset](https://github.com/philimon-reset)
-* Linkedin: [https://www.linkedin.com/in/philimon-derib/](https://www.linkedin.com/in/philimon-derib/)
+Collaborators:
 
-Project Link: [https://github.com/philimon-reset/Git-Stats](https://github.com/philimon-reset/Git-Stats)
+Oyin Akiode:
+* Github: [https://github.com/honey365](https://github.com/honey365)
+* Linkedin: [https://www.linkedin.com/in/oyin-akiode-4933a5219/](https://www.linkedin.com/in/oyin-akiode-4933a5219/)
+
+
+Project Link: [https://github.com/James-chuks/Git-Stats](https://github.com/James-chkus/Git-Stats)
